@@ -1,6 +1,6 @@
 # React + Tailwind Bootcamp - Jour 1
 
-> **Public cible** : étudiant·e sans expérience JavaScript ou React.
+
 
 ---
 
