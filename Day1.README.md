@@ -71,7 +71,7 @@ const mod  = 10 % 3;    // 1 (reste)
 
 **Testez**  
 ```js
-console.log(greet("Learning ReactJs")); // Bonjour, Monde
+console.log(greet("Jonhia")); // Bonjour, Jonhia
 ```
 
 ---
