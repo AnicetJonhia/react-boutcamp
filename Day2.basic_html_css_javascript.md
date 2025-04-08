@@ -1,4 +1,4 @@
-# Cours Express de Web Développement en 1 Heure
+# 1 heure de workflow : html, css, javascript ( les bases )
 
 Ce README présente un workflow intensif d'1 heure pour découvrir les bases de la création d'une page web statique. Le cours est divisé en trois parties principales : HTML, CSS et JavaScript, avec des exemples pratiques pour intégrer les trois technologies dans un mini-projet interactif.
 
@@ -33,7 +33,7 @@ Ce README présente un workflow intensif d'1 heure pour découvrir les bases de 
       </head>
       <body>
         <header>
-          <h1>Bienvenue dans le cours express de développement web</h1>
+          <h1>Bienvenue dans le cours de base : html, css, javascript</h1>
         </header>
         <section>
           <p>Ceci est un exemple de page HTML simple.</p>
@@ -83,7 +83,7 @@ Ce README présente un workflow intensif d'1 heure pour découvrir les bases de 
 - **Concepts clés :**
   - **Variables :** déclaration avec `let`, `const` et (moins utilisé) `var`.
     ```javascript
-    let nom = "Alice";
+    let nom = "Sarobidy";
     const PI = 3.14;
     ```
   - **Fonctions :** définition et appel d'une fonction.
@@ -91,7 +91,7 @@ Ce README présente un workflow intensif d'1 heure pour découvrir les bases de 
     function saluer(prenom) {
       console.log("Bonjour " + prenom + " !");
     }
-    saluer("Alice");
+    saluer("Fyh");
     ```
   - **Événements :** manipulation d’événements sur des éléments HTML.
     ```javascript
@@ -128,8 +128,7 @@ Ce README présente un workflow intensif d'1 heure pour découvrir les bases de 
     ```
   - Lancez votre page et vérifiez que l'interactivité fonctionne.
 
-### 5. Conclusion et Projets Futurs (5 minutes)
-- **Objectif :** Faire le bilan et orienter les pistes d’approfondissement.
+### 5. Conclusion et Projets Futurs 
 - **Appronfondissement dans  :**
   - https://www.w3schools.com/html/default.asp
   - https://www.w3schools.com/css/default.asp
