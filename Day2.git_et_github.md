@@ -1,6 +1,6 @@
 # 🚀 Introduction à Git & GitHub
 
-Bienvenue ! Ce dépôt est là pour t'aider à comprendre **Git** et **GitHub**, deux outils indispensables pour tout développeur.
+Bienvenue ! Ce dépôt est là pour t'aider à comprendre **Git** et **GitHub**
 
 ---
 ## Prerequis :
