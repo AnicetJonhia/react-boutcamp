@@ -352,7 +352,7 @@ secret = random.randint(1, 20)
 
 is_found = False
 
-# print("Tape 'quitter' pour quitter le jeu")
+
 while not is_found :
    
     input_user = input("Entre une valeur entre 1 et 20 : ")
