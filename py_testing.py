@@ -346,25 +346,26 @@ sinon si l'entrée de l'utilisateur est supérieur à ce nombre, afficher : plus
  nb : l'utilisateur peut quiter le jeu sans fin  """
 
 
-# import random
-# secret = random.randint(1, 20)
+import random
+secret = random.randint(1, 20)
 
 
-# is_found = False
+is_found = False
 
-# # print("Tape 'quitter' pour quitter le jeu")
-# while not is_found :
+# print("Tape 'quitter' pour quitter le jeu")
+while not is_found :
    
-#     input_user = input("Entre une valeur entre 1 et 20 : ")
-#     n = int(input_user)
+    input_user = input("Entre une valeur entre 1 et 20 : ")
+    n = int(input_user)
 
-#     if secret == n :
-#         print("Bravo , vous avez trouvé le nombre ")
-#         is_found = True 
-#     elif n < secret :
-#         print("Trop petit")
-#     else: 
-#         print("Trop grand")
+    if secret == n :
+        print("Bravo , vous avez trouvé le nombre ")
+        is_found = True 
+    elif n < secret :
+        print("Trop petit")
+    else: 
+        print("Trop grand")
+
 
 
 
